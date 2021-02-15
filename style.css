@@ -11,13 +11,13 @@ body{
     align-items: center;
     background-color: #000;
 }
-
+/* 
 h1{
     color: #fff;
     position: absolute;
     top:0em;
     margin: 2em;
-}
+} */
 
 .main_box{
     width: 4em;
