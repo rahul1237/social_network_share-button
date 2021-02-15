@@ -130,3 +130,7 @@ span{
     color: black;
     background-image: linear-gradient(90deg,white,grey);
 }
+
+span:visited{
+    background-color: #000f94;
+}
