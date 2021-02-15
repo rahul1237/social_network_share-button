@@ -65,19 +65,19 @@ span{
 
 #share_button:checked ~ .sm_list a:nth-child(1){
     background-color: #3B5998;
-    transition-delay: 0s;
+    transition-delay: 0.2s;
     transform: translateX(-6em);
 }
 
 #share_button:checked ~ .sm_list a:nth-child(2){
     background-color: #dd2553;
-    transition-delay: 0.1s;
+    transition-delay: 0.2s;
     transform: translateX(6em);
 }
 
 #share_button:checked ~ .sm_list a:nth-child(3){
     background-color: #8ddd25;
-    transition-delay: 0.2s;
+    transition-delay: 0.3s;
     transform: translateX(12em);
 }
 
@@ -95,6 +95,6 @@ span{
 
 #share_button:checked ~ .sm_list a:nth-child(6){
     background-color: #dd2525;
-    transition-delay: 0.5s;
+    transition-delay: 0.4s;
     transform: translateX(-18em);
 }
